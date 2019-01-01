@@ -15,3 +15,8 @@ $ git push origin mater
 
 $ npm init
 $ npm install jquery --save
+
+# install gulp
+$ sudo npm install gulp-cli --global
+$ npm install gulp --save-dev
+
